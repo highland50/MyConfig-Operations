@@ -1,5 +1,6 @@
 ssh key
 ok2 
+再试passphrase
 ssh-keygen -m PEM -t rsa -b 4096 -C "yourname@your.com
 Auto-launching ssh-agent on Git for Windows
 You can run ssh-agent automatically when you open bash or Git shell. Copy the following lines and paste them into your ~/.profile or ~/.bashrc file in Git shell:
